@@ -4,6 +4,19 @@
   <!--Java--><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <!--C --><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <!--Python--><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <!--Assembly--><img src="https://img.shields.io/badge/-Assembly-000?style=for-the-badge&logo=assemblyscript" />
+  <!--MySQL--><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+</p>
+
+<p align="center">
+  <!-- Backend -->
+  
+</p>
+
+<p align="center">
+  <!-- Other Tools -->
+  <!--VS Code--><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 <!-- GitHub Statistics -->
